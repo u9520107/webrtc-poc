@@ -1,0 +1,12 @@
+{
+  "name": "webhook-experiments",
+  "version": "1.0.0",
+  "description": "Experiments with webhook subscriptions",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@ringcentral/sdk": "^4.7.4",
+    "fastify": "^4.13.0"
+  }
+}
