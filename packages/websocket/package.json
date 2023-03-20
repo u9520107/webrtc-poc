@@ -1,0 +1,19 @@
+{
+  "name": "websocket",
+  "version": "1.0.0",
+  "description": "Experiments with websocket",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "typescript": "^4.9.5",
+    "ws": "^8.13.0"
+  },
+  "scripts": {
+    "start": "yarn ts-node server.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^18.14.0",
+    "@types/ws": "^8.5.4",
+    "ts-node": "^10.9.1"
+  }
+}
